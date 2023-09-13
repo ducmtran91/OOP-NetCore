@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UjUawilzyBcLFNc9a8LLgtZU4uAfX8ZI6J8A5xJSE+xBPAs+Qlt+0ztuOeDkvo1xM24YR+u1iKSnXnpcxzRnoQ==",
+  "dgSpecHash": "pfzZiukUGw3D9y/Dl9sG6c9X358sg8ExqpQF+BnaCuAK4a+Dkf8Wwue+SJrLRr8z52tpA3eLhC21lGlbsvITGQ==",
   "success": true,
-  "projectFilePath": "E:\\Jobs\\dotnets\\OOP\\OOP\\OOP.csproj",
+  "projectFilePath": "E:\\Jobs\\dotnets\\OOP-NetCore\\OOP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DEV-WIN03\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
   ],

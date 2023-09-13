@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Jobs\\dotnets\\OOP\\OOP\\OOP.csproj": {}
+    "E:\\Jobs\\dotnets\\OOP-NetCore\\OOP.csproj": {}
   },
   "projects": {
-    "E:\\Jobs\\dotnets\\OOP\\OOP\\OOP.csproj": {
+    "E:\\Jobs\\dotnets\\OOP-NetCore\\OOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Jobs\\dotnets\\OOP\\OOP\\OOP.csproj",
+        "projectUniqueName": "E:\\Jobs\\dotnets\\OOP-NetCore\\OOP.csproj",
         "projectName": "OOP",
-        "projectPath": "E:\\Jobs\\dotnets\\OOP\\OOP\\OOP.csproj",
+        "projectPath": "E:\\Jobs\\dotnets\\OOP-NetCore\\OOP.csproj",
         "packagesPath": "C:\\Users\\DEV-WIN03\\.nuget\\packages\\",
-        "outputPath": "E:\\Jobs\\dotnets\\OOP\\OOP\\obj\\",
+        "outputPath": "E:\\Jobs\\dotnets\\OOP-NetCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
